@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "8717149155",
+    "firebase_url": "https://ivanfirebase-5f82c-default-rtdb.firebaseio.com",
+    "project_id": "ivanfirebase-5f82c",
+    "storage_bucket": "ivanfirebase-5f82c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8717149155:android:521196741798680adb36d6",
+        "android_client_info": {
+          "package_name": "com.example.gigle_boo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqxMncbAmn4bAvXQo-hKyiMjqLxPKXFr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
